@@ -33,3 +33,6 @@ pip install pillow
 
 python3 -m pip install pillow
 ```
+----
+
+![image](https://github.com/user-attachments/assets/106557b4-0956-4785-8c42-017c595c15f9)
