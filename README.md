@@ -22,10 +22,14 @@ PNG-To-ICO.py: Convert PNG to a .ico file
 
 Convert_AnyImageToPNG.py: Converts most images to PNG 
 
-Download: 
+Download: https://github.com/Kavex/PNGTools/releases/tag/ConvertAnyImageToPNGv1.0
 
-Lib:
+----
+
+Libs Required for All:
 
 ```python
 pip install pillow
+
+python3 -m pip install pillow
 ```
